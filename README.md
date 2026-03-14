@@ -12,7 +12,7 @@ The dataset and database initialization script were provided as part of a SQL an
 ---
 
 ## Project Structure
-
+```
 sql-data-analytics-project
 │
 ├── datasets
@@ -37,7 +37,7 @@ sql-data-analytics-project
 │   └── 13_report_products.sql
 │
 └── DataWarehouseAnalytics.bak
-
+```
 ---
 
 ## Dataset
